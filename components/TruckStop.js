@@ -7,8 +7,6 @@ export default class TruckStop extends React.Component {
     constructor(props) {
         super(props);
     }
-
-    //need to figure out how to get location from someone's phone...
     render() {
         return (
             <Marker
